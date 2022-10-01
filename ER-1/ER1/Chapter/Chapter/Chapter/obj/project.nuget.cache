@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AXR3uH/9l+Me5udXIGoaibSloLIzGKj7TO8AlRNUBmapnOc6JjJ872Qr7+Z+LIFLxn6lttyxNUrjJVtKCPVr9Q==",
+  "dgSpecHash": "08AWt4bnsTPyLPPtPpRAa8hi9DxHs/QGtujfw4oPPzJ4hw3z3FltIQ8vIT6dFaO1HTqqtX/EIJXbwxI0fd3AJw==",
   "success": true,
-  "projectFilePath": "D:\\Analise de sistema - Estácio\\SENAI -  FULLSTACK\\PFS_UC14 - DESENVOLVIMENTO DE APIS\\ATIVIDADES\\ER1\\Chapter\\Chapter\\Chapter\\Chapter.csproj",
+  "projectFilePath": "D:\\Analise de sistema - Estácio\\SENAI -  FULLSTACK\\PFS_UC14 - DESENVOLVIMENTO DE APIS\\UC-14\\ER-1\\ER1\\Chapter\\Chapter\\Chapter\\Chapter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\franc\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\franc\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

@@ -2128,11 +2128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Analise de sistema - Estácio\\SENAI -  FULLSTACK\\PFS_UC14 - DESENVOLVIMENTO DE APIS\\ATIVIDADES\\ER1\\Chapter\\Chapter\\Chapter\\Chapter.csproj",
+      "projectUniqueName": "D:\\Analise de sistema - Estácio\\SENAI -  FULLSTACK\\PFS_UC14 - DESENVOLVIMENTO DE APIS\\UC-14\\ER-1\\ER1\\Chapter\\Chapter\\Chapter\\Chapter.csproj",
       "projectName": "Chapter",
-      "projectPath": "D:\\Analise de sistema - Estácio\\SENAI -  FULLSTACK\\PFS_UC14 - DESENVOLVIMENTO DE APIS\\ATIVIDADES\\ER1\\Chapter\\Chapter\\Chapter\\Chapter.csproj",
+      "projectPath": "D:\\Analise de sistema - Estácio\\SENAI -  FULLSTACK\\PFS_UC14 - DESENVOLVIMENTO DE APIS\\UC-14\\ER-1\\ER1\\Chapter\\Chapter\\Chapter\\Chapter.csproj",
       "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "D:\\Analise de sistema - Estácio\\SENAI -  FULLSTACK\\PFS_UC14 - DESENVOLVIMENTO DE APIS\\ATIVIDADES\\ER1\\Chapter\\Chapter\\Chapter\\obj\\",
+      "outputPath": "D:\\Analise de sistema - Estácio\\SENAI -  FULLSTACK\\PFS_UC14 - DESENVOLVIMENTO DE APIS\\UC-14\\ER-1\\ER1\\Chapter\\Chapter\\Chapter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
