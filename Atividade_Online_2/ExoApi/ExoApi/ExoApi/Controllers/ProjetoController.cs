@@ -1,5 +1,6 @@
 ﻿using ExoApi.Models;
 using ExoApi.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,9 +11,12 @@ namespace ExoApi.Controllers
 
     [Route("api/[controller]")]
     [ApiController]
+
+    [Authorize]
     public class ProjetoController : ControllerBase
     {
         private readonly ProjetoRepository _projetoRepository;
+
 
         public ProjetoController(ProjetoRepository projetoRepository)
         {
@@ -31,6 +35,8 @@ namespace ExoApi.Controllers
                 throw new Exception(e.Message);
             }
         }
+
+
         [HttpGet("{id}")]
         public IActionResult BuscarPorId(int id)
         {
@@ -82,6 +88,7 @@ namespace ExoApi.Controllers
             }
         }
 
+        [Authorize(Roles = "0")]
         [HttpDelete("{id}")]
         public IActionResult Deletar(int id)
         {
@@ -100,6 +107,5 @@ namespace ExoApi.Controllers
                 throw;
             }
         }
-
     }
 }

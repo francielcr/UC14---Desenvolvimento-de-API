@@ -57,3 +57,4 @@ D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC14 - DESENVOLVIMENTO D
 D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC14 - DESENVOLVIMENTO DE APIS\UC-14\Atividade_Online_2\ExoApi\ExoApi\ExoApi\obj\Debug\net6.0\ExoApi.pdb
 D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC14 - DESENVOLVIMENTO DE APIS\UC-14\Atividade_Online_2\ExoApi\ExoApi\ExoApi\obj\Debug\net6.0\ExoApi.genruntimeconfig.cache
 D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC14 - DESENVOLVIMENTO DE APIS\UC-14\Atividade_Online_2\ExoApi\ExoApi\ExoApi\obj\Debug\net6.0\ref\ExoApi.dll
+D:\Analise de sistema - Estácio\SENAI -  FULLSTACK\PFS_UC14 - DESENVOLVIMENTO DE APIS\UC-14\Atividade_Online_2\ExoApi\ExoApi\ExoApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
